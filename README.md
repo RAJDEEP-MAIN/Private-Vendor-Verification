@@ -20,7 +20,7 @@
 A full-stack zero-knowledge dApp built on the **Midnight Network** for enterprise compliance and private vendor verification. This submission satisfies all Level 1, Level 2, and Level 3 requirements of the Midnight Developer Challenge.
 
 👉 **Vercel Deployment Link**: [https://vendor-verification-frontend-seven.vercel.app/](https://vendor-verification-frontend-seven.vercel.app/)  
-🎬 **Video Walkthrough**: [https://youtu.be/xXcw1aMI6ew](https://youtu.be/xXcw1aMI6ew)  
+🎬 **Video Walkthrough**: https://youtu.be/ZNmsToeco7I 
 🆔 **Preprod Contract Address**: [`0xed3c0b8bbdc6e2405d1b606dfe38ef7d895ad95c9d7ecd69b68b4c2a0fa5e68b`](https://preprod.midnightexplorer.com/contracts/ed3c0b8bbdc6e2405d1b606dfe38ef7d895ad95c9d7ecd69b68b4c2a0fa5e68b) *(Network: `preprod` / Midnight Preprod Testnet)*  
 🌐 **Midnight Preprod Explorer**: [https://preprod.midnightexplorer.com](https://preprod.midnightexplorer.com)
 
